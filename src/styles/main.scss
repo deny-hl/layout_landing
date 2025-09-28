@@ -1,9 +1,9 @@
-@import 'blocks/page';
-@import 'blocks/header';
-@import 'blocks/top-bar';
-@import 'blocks/icon';
-@import 'blocks/menu';
-@import 'blocks/nav';
+@use './blocks/page';
+@use './blocks/header';
+@use './blocks/top-bar';
+@use './blocks/icon';
+@use './blocks/menu';
+@use './blocks/nav';
 
 /* #region footer */
 .footer {
